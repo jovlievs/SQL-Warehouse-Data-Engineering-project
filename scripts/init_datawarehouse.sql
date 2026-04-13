@@ -1,0 +1,5 @@
+CREATE DATABASE DataWarehouse;
+
+CREATE schema IF NOT EXISTS bronze;
+CREATE SCHEMA IF NOT EXISTS silver ;
+CREATE schema IF NOT EXISTS gold;
